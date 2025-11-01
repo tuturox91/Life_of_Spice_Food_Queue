@@ -1,0 +1,13 @@
+{
+  "itemGroup.foodqueue": "Example Mod Tab",
+  "block.foodqueue.example_block": "Example Block",
+  "item.foodqueue.example_item": "Example Item",
+
+  "foodqueue.configuration.title": "foodqueue Configs",
+  "foodqueue.configuration.section.foodqueue.common.toml": "foodqueue Configs",
+  "foodqueue.configuration.section.foodqueue.common.toml.title": "foodqueue Configs",
+  "foodqueue.configuration.items": "Item List",
+  "foodqueue.configuration.logDirtBlock": "Log Dirt Block",
+  "foodqueue.configuration.magicNumberIntroduction": "Magic Number Text",
+  "foodqueue.configuration.magicNumber": "Magic Number"
+}
