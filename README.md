@@ -1,6 +1,6 @@
 <h1>Life of Spice: Food Queue</h1>
 
-Скачать: [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/life-of-spice-food-queue) [Modrinth](https://modrinth.com/mod/life-of-spice-food-queue)
+Скачать: [CurseForge](https://curseforge.com/minecraft/mc-mods/life-of-spice-food-queue) [Modrinth](https://modrinth.com/mod/life-of-spice-food-queue)
 
 <hr>
 <p><img style="float: left; margin-left: 15px;" src="https://media.forgecdn.net/attachments/description/null/description_417a370d-4449-446a-b6ff-947cbe1fbf74.gif" alt="Food disappear after time from queue" width="86" height="239"></p>
