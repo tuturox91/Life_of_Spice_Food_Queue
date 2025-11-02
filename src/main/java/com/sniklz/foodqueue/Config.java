@@ -23,7 +23,7 @@ public class Config {
 
 
     public static final ModConfigSpec.BooleanValue RESET_QUEUE_AFTER_DEATH = BUILDER
-            .comment("Is it necessary to reset the queue of eaten food after death?")
+            .comment("Reset the queue of eaten food after death?")
             .define("reset_queue_after_death", true);
 
 
