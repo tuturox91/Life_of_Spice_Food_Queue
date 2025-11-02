@@ -13,6 +13,10 @@ public class Config {
             .comment("How big should the slots in the HUD be?")
             .defineInRange("slots_size", 0.75,  0.1, 2);
 
+    public static final ModConfigSpec.BooleanValue RESET_QUEUE_AFTER_DEATH = BUILDER
+            .comment("Reset the queue of eaten food after death?")
+            .define("reset_queue_after_death", true);
+
     public static final ModConfigSpec.IntValue DEFAULT_SLOTS = BUILDER
             .comment("When you first login the world, how many slots were there?")
             .defineInRange("blocking_slots_count", 2,  1, 6);
@@ -20,12 +24,6 @@ public class Config {
     public static final ModConfigSpec.BooleanValue WANT_TO_FOOD_DISAPPEAR_AFTER_TIME = BUILDER
             .comment("Should food disappear from the queue of eaten items after a certain period of time?")
             .define("want_to_food_disappear_after_time_from_queue", true);
-
-
-    public static final ModConfigSpec.BooleanValue RESET_QUEUE_AFTER_DEATH = BUILDER
-            .comment("Reset the queue of eaten food after death?")
-            .define("reset_queue_after_death", true);
-
 
     public static final ModConfigSpec.IntValue HOW_MANY_MINUTES_SHOULD_TO_FOOD_DISAPPEAR = BUILDER
             .comment("After how many minutes should the food disappear from the queue? ",
@@ -39,7 +37,7 @@ public class Config {
             .define("blocking_slots_scale_total", true);
 
     public static final ModConfigSpec.IntValue FIRST_SLOT_SCALE = BUILDER
-            .comment("After how many MINUTES do you want to add the FIRST slot? (By default its 180 minutes or 2 hours)",
+            .comment("After how many MINUTES do you want to add the FIRST slot? (By default its 120 minutes or 2 hours)",
                     "(you need to set blocking_slots_scale_total to true!)")
             .defineInRange("first_slot_scale_after", 120, 1, 99999);
 
