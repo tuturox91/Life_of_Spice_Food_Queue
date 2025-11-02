@@ -1,5 +1,4 @@
 <h1>Life of Spice: Food Queue</h1>
-<br>
 
 Скачать: [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/life-of-spice-food-queue) [Modrinth](https://modrinth.com/mod/life-of-spice-food-queue)
 
