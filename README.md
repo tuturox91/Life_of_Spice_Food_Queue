@@ -86,6 +86,3 @@
 </ul>
 </ul>
 </div>
-<blockquote>
-<h1 style="text-align: left;"><br><br></h1>
-</blockquote>
