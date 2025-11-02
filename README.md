@@ -2,7 +2,6 @@
 <hr>
 <p><img style="float: left; margin-left: 15px;" src="https://media.forgecdn.net/attachments/description/null/description_417a370d-4449-446a-b6ff-947cbe1fbf74.gif" alt="Food disappear after time from queue" width="86" height="239"></p>
 <h4 style="text-align: left;"> Now, when you eat food, it goes into the queue. Food in the queue cannot be eaten again, BUT the size of the queue, the size of the HUD, the increase in the size of the queue over time, and whether the food should disappear from the queue after a certain amount of time (e.g., after 3minutes) can all be configured in the settings. Do you want to start the game in your world with one blocking slot, and after an hour of play, add 2 more to the player? All of this can be configured!</h4>
-<h1 id="life-of-spice-food-queue"></h1>
 
 <h1></h1>
 <h1>Config</h1>
