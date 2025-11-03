@@ -95,7 +95,7 @@ Download: [CurseForge](https://curseforge.com/minecraft/mc-mods/life-of-spice-fo
 
 
 
-<p>Please chek ma other mods:</p>
+<p>Please check out my other mods:</p>
 <ul>  
 
   
