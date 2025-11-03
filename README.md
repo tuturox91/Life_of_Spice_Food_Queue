@@ -90,10 +90,26 @@ Download: [CurseForge](https://curseforge.com/minecraft/mc-mods/life-of-spice-fo
 </ul>
 </div>
 
+
+
+
+
+
 <p>Please chek ma other mods:</p>
-<ul>
-  <li>[Life of Spice: Food Queue](https://www.curseforge.com/minecraft/mc-mods/life-of-spice-food-queue)</li>
-  <li>[XP Config](https://www.curseforge.com/minecraft/mc-mods/xp-config)</li>
-  <li>[Cobblemon Repel NeoReforged](https://www.curseforge.com/minecraft/mc-mods/cobblemon-repel-neoreforged)</li>
-  <li>[Ore Miner by Sniklz (Forge)](https://www.curseforge.com/minecraft/mc-mods/ore-miner-by-sniklz-forge)</li>
+<ul>  
+
+  
+  <li> 
+    
+    
+  [Life of Spice: Food Queue](https://www.curseforge.com/minecraft/mc-mods/life-of-spice-food-queue)</li>
+  <li>
+    
+  [XP Config](https://www.curseforge.com/minecraft/mc-mods/xp-config)</li>
+  <li>
+  
+  [Cobblemon Repel NeoReforged](https://www.curseforge.com/minecraft/mc-mods/cobblemon-repel-neoreforged)</li>
+  <li>
+  
+  [Ore Miner by Sniklz (Forge)](https://www.curseforge.com/minecraft/mc-mods/ore-miner-by-sniklz-forge)</li>
 </ul>
