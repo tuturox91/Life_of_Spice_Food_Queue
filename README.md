@@ -1,6 +1,6 @@
 <h1>Life of Spice: Food Queue</h1>
 
-Скачать: [CurseForge](https://curseforge.com/minecraft/mc-mods/life-of-spice-food-queue) [Modrinth](https://modrinth.com/mod/life-of-spice-food-queue)
+Download: [CurseForge](https://curseforge.com/minecraft/mc-mods/life-of-spice-food-queue) [Modrinth](https://modrinth.com/mod/life-of-spice-food-queue)
 
 <hr>
 <p><img style="float: left; margin-left: 15px;" src="https://media.forgecdn.net/attachments/description/null/description_417a370d-4449-446a-b6ff-947cbe1fbf74.gif" alt="Food disappear after time from queue" width="86" height="239"></p>
@@ -89,3 +89,11 @@
 </ul>
 </ul>
 </div>
+
+<p>Please chek ma other mods:</p>
+<ul>
+  <li>[Life of Spice: Food Queue](https://www.curseforge.com/minecraft/mc-mods/life-of-spice-food-queue)</li>
+  <li>[XP Config](https://www.curseforge.com/minecraft/mc-mods/xp-config)</li>
+  <li>[Cobblemon Repel NeoReforged](https://www.curseforge.com/minecraft/mc-mods/cobblemon-repel-neoreforged)</li>
+  <li>[Ore Miner by Sniklz (Forge)](https://www.curseforge.com/minecraft/mc-mods/ore-miner-by-sniklz-forge)</li>
+</ul>
